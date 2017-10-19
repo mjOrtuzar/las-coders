@@ -1,0 +1,64 @@
+h1{
+	font-family: cutie;
+  
+}
+
+.sub{
+	width: 115px;
+	height: 6px;
+	background-color: #F7BE81;
+}
+
+.cuadro1{
+	width: 200px;
+	height: 200px;
+	margin: 9px;
+}
+p{
+	position: relative;
+	z-index: 1;
+	margin: 0;
+	top: 206px;
+	left: 100px;
+	
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-family: cutie;
+	font-size: 20px;
+	
+}
+
+.cuadro2{
+	width: 200px;
+	height: 200px;
+	margin: 9px;
+}
+.cuadro3{
+	width: 200px;
+	height: 200px;
+	margin: 9px;
+
+}
+.cuadro4{
+	width: 200px;
+	height: 200px;
+	margin: 9px;
+
+}
+.cuadro5{
+	width: 200px;
+	height: 200px;
+	margin: 9px;
+}
+.cuadro6{
+	width: 200px;
+	height: 200px;
+	margin: 9px;
+}
+
+@font-face{
+	font-family: cutie;
+	src: url(Cutie_Patootie.ttf);
+}
